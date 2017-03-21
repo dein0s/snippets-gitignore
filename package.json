@@ -1,0 +1,18 @@
+{
+  "name": "snippets-gitignore",
+  "main": "./lib/snippets-gitignore",
+  "version": "0.0.1",
+  "description": "Simple pack of gitignore snippets. Inspired by https://github.com/jefkoslowski/gitignore-snippets",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "snippets-gitignore:toggle"
+  },
+  "repository": "https://github.com/atom/my-package",
+  "license": "WTFPL",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

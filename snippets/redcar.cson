@@ -1,0 +1,6 @@
+".text.ignore":
+  "redcar":
+    "prefix": "gig-redcar"
+    "body": """
+          .redcar
+          """

@@ -1,0 +1,7 @@
+".text.ignore":
+  "darteditor":
+    "prefix": "gig-darteditor"
+    "body": """
+          .project
+          .buildlog
+          """

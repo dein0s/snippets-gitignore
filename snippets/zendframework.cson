@@ -1,0 +1,10 @@
+".text.ignore":
+  "zendframework":
+    "prefix": "gig-zendframework"
+    "body": """
+          INSTALL.txt
+          LICENSE.txt
+          README.txt
+          demos/
+          extras/documentation
+          """

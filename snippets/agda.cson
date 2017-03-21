@@ -1,0 +1,6 @@
+".text.ignore":
+  "agda":
+    "prefix": "gig-agda"
+    "body": """
+          *.agdai
+          """

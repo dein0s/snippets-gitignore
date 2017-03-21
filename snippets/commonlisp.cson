@@ -1,0 +1,8 @@
+".text.ignore":
+  "commonlisp":
+    "prefix": "gig-commonlisp"
+    "body": """
+          *.FASL
+          *.fasl
+          *.lisp-temp
+          """

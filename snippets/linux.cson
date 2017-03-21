@@ -1,0 +1,9 @@
+".text.ignore":
+  "linux":
+    "prefix": "gig-linux"
+    "body": """
+          *~
+
+          # KDE directory preferences
+          .directory
+          """

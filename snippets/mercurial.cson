@@ -1,0 +1,8 @@
+".text.ignore":
+  "mercurial":
+    "prefix": "gig-mercurial"
+    "body": """
+          /.hg/*
+          */.hg/*
+          .hgignore
+          """

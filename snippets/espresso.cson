@@ -1,0 +1,6 @@
+".text.ignore":
+  "expresso":
+    "prefix": "gig-expresso"
+    "body": """
+          *.esproj
+          """

@@ -1,0 +1,9 @@
+".text.ignore":
+  "episerver":
+    "prefix": "gig-episerver"
+    "body": """
+          ######################
+          ## EPiServer Files
+          ######################
+          *License.config
+          """

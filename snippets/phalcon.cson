@@ -1,0 +1,7 @@
+".text.ignore":
+  "phalcon":
+    "prefix": "gig-phalcon"
+    "body": """
+          /cache/
+          /config/development/
+          """

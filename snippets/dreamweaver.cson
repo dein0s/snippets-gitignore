@@ -1,0 +1,8 @@
+".text.ignore":
+  "dreamweaver":
+    "prefix": "gig-dreamweaver"
+    "body": """
+          # DW Dreamweaver added files
+          _notes
+          dwsync.xml
+          """

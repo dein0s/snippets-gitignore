@@ -1,0 +1,10 @@
+".text.ignore":
+  "qooxdoo":
+    "prefix": "gig-qooxdoo"
+    "body": """
+          cache
+          cache-downloads
+          inspector
+          api
+          source/inspector.html
+          """

@@ -1,0 +1,8 @@
+".text.ignore":
+  "ensime":
+    "prefix": "gig-ensime"
+    "body": """
+          # Ensime specific
+          .ensime
+          .ensime_lucene/
+          """

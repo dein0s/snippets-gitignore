@@ -1,0 +1,7 @@
+".text.ignore":
+  "idris":
+    "prefix": "gig-idris"
+    "body": """
+          *.ibc
+          *.o
+          """

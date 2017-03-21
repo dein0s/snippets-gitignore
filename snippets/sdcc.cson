@@ -1,0 +1,13 @@
+".text.ignore":
+  "sdcc":
+    "prefix": "gig-sdcc"
+    "body": """
+          # SDCC stuff
+          *.lnk
+          *.lst
+          *.map
+          *.mem
+          *.rel
+          *.rst
+          *.sym
+          """

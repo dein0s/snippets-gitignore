@@ -1,0 +1,6 @@
+".text.ignore":
+  "sass":
+    "prefix": "gig-sass"
+    "body": """
+          .sass-cache
+          """
